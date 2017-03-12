@@ -1,3 +1,6 @@
+//This version is only in Cpp not MFC
+//If you want to run cpp, remove all remarks in main.cpp
+
 //#include "Interpolation.h"
 //#include <crtdbg.h> 
 //#include <iostream>
